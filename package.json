@@ -1,0 +1,26 @@
+{
+  "name": "react-native-smart-log",
+  "version": "1.0.0",
+  "description": "smart log for react-native",
+  "main": "smartlog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubilaytural/react-native-smart-log.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "log",
+    "smart-log"
+  ],
+  "author": "kubilaytural",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubilaytural/react-native-smart-log/issues"
+  },
+  "homepage": "https://github.com/kubilaytural/react-native-smart-log#readme"
+}
