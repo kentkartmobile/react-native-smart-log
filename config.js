@@ -1,5 +1,6 @@
 const config = {
-  logType: 'all',
+  logType: '',
+  keyword: '',
 };
 
 module.exports = config;
